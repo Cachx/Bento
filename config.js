@@ -147,35 +147,28 @@ const CONFIG = {
 					link: 'https://boards.4channel.org/sci/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '/a/',
+					link: 'https://boards.4channel.org/a/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '/b/',
+					link: 'https://boards.4chan.org/b/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'book',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Moodle',
+					link: 'moodle.umontpellier.fr/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Planning',
+					link: 'https://proseconsult.umontpellier.fr/direct/?data=3903f2df9c018bfca669616974e1c21a4f51f7d91eb3648604d628113e82760dbed8d89011b8db3f565a6eba3fb421d313f6c63370d69630c73e5d47e7b4caa205b671755e2e313accf1c0ae7bea9fe2ffaaa69cbd14fea5a6d0111bfaa17a823cc1c3b4302fc5dd2762be0aa3a53986aa46015363b2752612a410752d15eaafd211eeb7936734e0cd7fd38213cedc0eec845302a004ead06829e11b88069c04d30c5f7315d7cd4462b8cf9d4ebde905bd413e8b41bd52d63c8396839862bea2,1',
 				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
+				
 			],
 		},
 	],
@@ -187,21 +180,18 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Netflix',
+					link: 'https://netflix.com',
+				},
+				{
+					name: 'Youtube',
+					link: 'https://youtube.com',
+				},
+				{
 					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					link: 'https://open.spotify.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
-				},
 			],
 		},
 		{
