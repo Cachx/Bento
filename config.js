@@ -135,34 +135,34 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'clover',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Overboard',
+					link: 'https://4chan.org',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '/g/',
+					link: 'https://boards.4channel.org/g/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '/sci/',
+					link: 'https://boards.4channel.org/sci/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '/a/',
+					link: 'https://boards.4channel.org/a/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'Youtube',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Youtube',
+					link: 'https://youtube.com',
 				},
 				{
 					name: 'Dribbble',
