@@ -188,7 +188,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Moodle',
-					link: 'moodle.umontpellier.com',
+					link: 'https://moodle.umontpellier.com',
 				},
 				{
 					name: 'Planning',
@@ -200,12 +200,50 @@ const CONFIG = {
 				},
 				{
 					name: 'Cryptpad',
-					link: 'cryptpad.com',
+					link: 'https://cryptpad.com',
 				},
 			],
 		},
 		{
-			
+			icon: 'Youtube',
+
+                        id: '2',
+
+                        links: [
+
+                                {
+
+                                        name: 'Wiki',
+
+                                        link: 'https://dbz-dokkanbattle.fandom.com/wiki/Dragon_Ball_Z_Dokkan_Battle_Wiki',
+
+                                },
+
+                                {
+
+                                        name: 'Builder',
+
+                                        link: 'https://dokkanbattlebuilder.com/global/card/x/',
+
+                                },
+
+                                {
+
+                                        name: 'Datruth',
+
+                                        link: 'hhttps://www.youtube.com/user/DaTruthDT',
+
+                                },
+
+                                {
+
+                                        name: 'Brice',
+
+                                        link: 'https://www.youtube.com/user/BriceDuanBonus',
+
+                                },
+
+                        ],			
 		},
 	],
 }
