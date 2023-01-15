@@ -205,7 +205,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'Youtube',
+			icon: 'gamepad-2',
 
                         id: '2',
 
