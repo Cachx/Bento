@@ -188,7 +188,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Moodle',
-					link: 'https://moodle.umontpellier.com',
+					link: 'https://moodle.umontpellier.fr/',
 				},
 				{
 					name: 'Planning',
